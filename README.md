@@ -13,6 +13,10 @@ turning my daily study into a public record of growth.
 
 <h3 align="center">This repo is my public proof of work: everything I study, build, and improve over time.</h3>
 
+<p align="center">
+🔗 <b>Explore the full journey here:</b> 👉 <a href="https://github.com/TechDiva001/the-tech-diva-aiml-journey/tree/main">The Tech Diva AI/ML Journey Repo</a>
+</p>
+
 ---
 
 ## 🗺️ The Three Roadmaps
@@ -25,21 +29,6 @@ turning my daily study into a public record of growth.
 
 📂 All three PDFs live in the
 [ROADMAPS folder](https://github.com/TechDiva001/the-tech-diva-aiml-journey/tree/main/00_ROADMAPS)
-
----
-
-## ⭐ How to Use This Repo
-
-- ⭐ Star this repo to save it for later  
-- 🍴 Fork it to track your own AI/ML journey  
-- 🧭 Follow the phases step-by-step using the roadmap  
-- 🛠 Build projects alongside each phase  
-- ⏳ Don’t rush — consistency > speed  
-
-> This is not a “perfect” roadmap. It’s a real, evolving journey. Adapt it to your own pace.
-
-🔗 **Explore the full journey here:**  
-👉 [The Tech Diva AI/ML Journey Repo](https://github.com/TechDiva001/the-tech-diva-aiml-journey/tree/main)
 
 ---
 
