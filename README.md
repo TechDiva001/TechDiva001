@@ -36,7 +36,10 @@ turning my daily study into a public record of growth.
 - 🛠 Build projects alongside each phase  
 - ⏳ Don’t rush — consistency > speed  
 
-> This is not a “perfect” roadmap — it’s a real, evolving journey. Adapt it to your own pace.
+> This is not a “perfect” roadmap. It’s a real, evolving journey. Adapt it to your own pace.
+
+🔗 **Explore the full journey here:**  
+👉 [The Tech Diva AI/ML Journey Repo](https://github.com/TechDiva001/the-tech-diva-aiml-journey/tree/main)
 
 ---
 
