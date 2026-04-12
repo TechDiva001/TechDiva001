@@ -28,6 +28,18 @@ turning my daily study into a public record of growth.
 
 ---
 
+## ⭐ How to Use This Repo
+
+- ⭐ Star this repo to save it for later  
+- 🍴 Fork it to track your own AI/ML journey  
+- 🧭 Follow the phases step-by-step using the roadmap  
+- 🛠 Build projects alongside each phase  
+- ⏳ Don’t rush — consistency > speed  
+
+> This is not a “perfect” roadmap — it’s a real, evolving journey. Adapt it to your own pace.
+
+---
+
 ## 🛠 Tech Stack & Core Ecosystem
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
