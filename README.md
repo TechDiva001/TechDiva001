@@ -59,9 +59,9 @@ turning my daily study into a public record of growth.
 | Phase 0 | Python — University of Helsinki | 🔄 91/352 exercises |
 | Phase 1 | Statistics · EDA · Visualization | 🔄 In Progress |
 | Phase 2 | SQL + Databases | ⏳ Up Next |
-| Phase 3 | Machine Learning | ⏳ Upcoming |
+| Phase 3 | Machine Learning + WQU Data Science Projects | ⏳ Upcoming |
 | Phase 4 | Git · Docker · MLOps | ⏳ Upcoming |
-| Phase 5 | Deep Learning | ⏳ Upcoming |
+| Phase 5 | Deep Learning + WQU DL Projects + Reinforcement Learning  | ⏳ Upcoming |
 | Phase 6 | Modern AI Engineering | ⏳ Upcoming |
 | Anthropic Gap | Safety · Interpretability · RLHF | ⏳ Upcoming |
 | Competitions | Zindi · Kaggle · Hackathons | ⏳ Ongoing |
