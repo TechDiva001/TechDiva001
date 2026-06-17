@@ -64,7 +64,8 @@ turning my daily study into a public record of growth.
 | Phase 5 | Deep Learning + WQU DL Projects + Reinforcement Learning  | ⏳ Upcoming |
 | Phase 6 | Modern AI Engineering | ⏳ Upcoming |
 | Anthropic Gap | Safety · Interpretability · RLHF | ⏳ Upcoming |
-| Competitions | Zindi · Kaggle · Hackathons | ⏳ Ongoing |
+| Competitions | Zindi · Kaggle · Hackathons | ⏳  Upcoming |
+| Google ML Enginner Cert | Machine Learning · MLOps · Vertex AI | ⏳  Upcoming |
 
 ---
 
