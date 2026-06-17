@@ -72,7 +72,7 @@ turning my daily study into a public record of growth.
 
 | Certification / Course | Platform | Status | Link |
 |---|---|---|---|
-| 30 Certificates | Various Platforms | ✅ Completed | [View on Google Drive](https://drive.google.com/drive/folders/1x1k3v1Szme1ws0ajNPSxPF0Z-BK_wuBy?usp=sharing) |
+| 33 Certificates | Various Platforms | ✅ Completed | [View on Google Drive](https://drive.google.com/drive/folders/1x1k3v1Szme1ws0ajNPSxPF0Z-BK_wuBy?usp=sharing) |
 | Data Scientist Track | DataCamp | ⏳ Upcoming | — |
 | Anthropic Research & Safety Reading | Self-Study | ⏳ Upcoming | — |
 
