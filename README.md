@@ -86,7 +86,7 @@ turning my daily study into a public record of growth.
 | 📊 WASSCE 2025 Results Analysis | Pre-Roadmap | Pandas, Viz | ✅ Done |
 | 🚗 Ghana Road Accident Fatality Rates | Phase 1 | NumPy, Pandas, Seaborn | ✅ Done |
 | 🍲 Ghanaian Foods Health Risk Analysis | Phase 1 | NumPy, Matplotlib, Pandas | ✅ Done |
-| EDA Capstone Project | Phase 1 | TBD | 🔄 Coming Soon |
+| EDA Capstone Project | Phase 1 | TBD | ✅ Done |
 
 ---
 
