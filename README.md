@@ -58,7 +58,7 @@ turning my daily study into a public record of growth.
 | Pre-Roadmap | Kaggle 5 Courses + First ML Model | ✅ Done |
 | Phase 0 | Python — University of Helsinki | ✅ Intro to Programming completed. 201/352 exercises 🔄 Up Next: Advanced Course in Programming|
 | Phase 1 | Statistics · EDA · Visualization | ✅ Done |
-| Phase 2 | SQL + Databases |  🔄 In Progress |
+| Phase 2 | SQL + Databases |  🔄 In Progress....(90%) |
 | Phase 3 | Machine Learning + WQU Data Science Projects | ⏳ Up Next |
 | Phase 4 | Git · Docker · MLOps | ⏳ Upcoming |
 | Phase 5 | Deep Learning + WQU DL Projects + Reinforcement Learning  | ⏳ Upcoming |
