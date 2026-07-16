@@ -88,6 +88,7 @@ turning my daily study into a public record of growth.
 | 🚗 Ghana Road Accident Fatality Rates | Phase 1 | NumPy, Pandas, Seaborn | ✅ Done |
 | 🍲 Ghanaian Foods Health Risk Analysis | Phase 1 | NumPy, Matplotlib, Pandas | ✅ Done |
 | EDA Capstone Project | Phase 1 | TBD | ✅ Done |
+| SQL Database Capstone Project | Phase 2 | TBD | ✅ Done |
 
 ---
 
